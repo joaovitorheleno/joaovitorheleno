@@ -25,8 +25,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVHeleno197&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoVHeleno197&layout=compact&langs_count=7&theme=visual_studio_code"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitorheleno&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitorheleno&layout=compact&langs_count=7&theme=visual_studio_code"/>
 </div>
 
 ---
