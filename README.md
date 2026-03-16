@@ -2,17 +2,17 @@
   <img src="github-header-banner.png" alt="Meu banner!"/>
 </p>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-- 🎓 Estudante de **Engenharia de Software** na **PUC**.
-- 💡 Apaixonado por desenvolvimento de software e resolução de problemas complexos.
-- 🛠️ Atualmente focado em aprofundar conhecimentos em **Node.js** e arquitetura de sistemas.
-- 🌱 Buscando constantemente aprender novas tecnologias.
-- 🚀 Criador da Solvantech, uma iniciativa voltada para o desenvolvimento de soluções tecnológicas inovadoras e ferramentas que otimizam processos.
+- Estudante de **Engenharia de Software** na **PUC**.
+- Apaixonado por desenvolvimento de software e resolução de problemas complexos.
+- Atualmente focado em aprofundar conhecimentos em **Node.js** e arquitetura de sistemas.
+- Buscando constantemente aprender novas tecnologias.
+- Criador da Solvantech, uma iniciativa voltada para o desenvolvimento de soluções tecnológicas inovadoras e ferramentas que otimizam processos.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitorheleno&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
@@ -38,7 +38,7 @@
 
 ---
 
-## 📫 Vamos nos conectar?
+## Contatos
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joaovitorhelenomarinho/" target="_blank">
