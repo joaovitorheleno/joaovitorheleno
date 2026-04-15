@@ -6,7 +6,7 @@
 
 - Estudante de **Engenharia de Software** na **PUC**.
 - Apaixonado por desenvolvimento de software, resolução de problemas e lógica.
-- Atualmente focado em aprofundar conhecimentos em **Node.js** e arquitetura de sistemas.
+- Atualmente focado em aprofundar conhecimentos em **Node.js/NestJS** e arquitetura de sistemas.
 - Buscando constantemente aprender novas tecnologias.
 - Criador da Solvantech, uma iniciativa voltada para o desenvolvimento de soluções tecnológicas inovadoras e ferramentas que otimizam processos.
 
