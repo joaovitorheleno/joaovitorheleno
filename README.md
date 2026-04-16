@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github-header-banner.png" alt="Meu banner!"/>
-</p>
-
 ## Sobre Mim
 
 - Estudante de **Engenharia de Software** na **PUC**.
