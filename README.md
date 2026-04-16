@@ -1,27 +1,53 @@
 ## Sobre Mim
 
-- Estudante de **Engenharia de Software** na **PUC**.
-- Apaixonado por desenvolvimento de software, resolução de problemas e lógica.
-- Atualmente focado em aprofundar conhecimentos em **Node.js/NestJS** e arquitetura de sistemas.
-- Buscando constantemente aprender novas tecnologias.
-- Criador da Solvantech, uma iniciativa voltada para o desenvolvimento de soluções tecnológicas inovadoras e ferramentas que otimizam processos.
+[cite_start]Sou estudante de **Engenharia de Software na PUC Minas** [cite: 5, 20] com sólida experiência prática no desenvolvimento de sistemas escaláveis e APIs robustas. [cite_start]Atuo na construção de soluções eficientes aplicando boas práticas de arquitetura e metodologias ágeis[cite: 6].
+
+[cite_start]Como fundador da **Solvantech**, foco na criação de softwares personalizados e soluções digitais inovadoras para otimização de processos[cite: 17, 18].
 
 ---
 
 ## Tecnologias e Ferramentas
 
+### **Linguagens & Frameworks**
 <div align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
+
+### **Bancos de Dados & Infraestrutura**
+<div align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+---
+
+## Experiência Profissional
+
+### **Sankhya** | Desenvolvedor Backend Java  
+[cite_start]*Agosto de 2025 – Presente* [cite: 9]
+
+* [cite_start]**Desenvolvimento com Spring Boot:** Criação e manutenção de rotinas personalizadas utilizando **Java** e **Spring Boot** para atender regras de negócio complexas[cite: 10].
+* [cite_start]**Gestão de Dados:** Execução de consultas avançadas e manipulação de banco de dados **Oracle SQL** focado em performance e integridade[cite: 11].
+
+### **BeTruck** | Desenvolvedor FullStack  
+[cite_start]*Junho de 2024 – Agosto de 2025* [cite: 12]
+
+* [cite_start]**Arquitetura de APIs:** Desenvolvimento de APIs robustas e escaláveis utilizando **Node.js**, **NestJS** e **TypeScript**[cite: 14].
+* [cite_start]**Frontend Dinâmico:** Construção de interfaces modernas, responsivas e de alta performance utilizando **React**[cite: 15].
+* [cite_start]**Modelagem de Dados:** Gerenciamento e estruturação de dados com **PostgreSQL** e **TypeORM**[cite: 16].
+
+### **Solvantech** | Fundador e Desenvolvedor  
+[cite_start]*Iniciativa Própria* [cite: 17]
+
+* [cite_start]**Soluções Customizadas:** Liderança no desenvolvimento de softwares personalizados e soluções digitais focadas em resolver problemas específicos de clientes[cite: 18].
 
 ---
 
@@ -34,15 +60,22 @@
 
 ---
 
-## Contatos
+## Idiomas & Certificações
 
+* **Idiomas:** Inglês (Avançado) | [cite_start]Espanhol (Intermediário) [cite: 30]
+* [cite_start]**Docker:** Finalizado (Cod3r) [cite: 29]
+* [cite_start]**JavaScript Moderno:** Finalizado (Cod3r) [cite: 28]
+
+---
 <div align="left">
+
   <a href="https://www.linkedin.com/in/joaovitorhelenomarinho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:joaoheleno971@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
-<br />
