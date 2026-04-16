@@ -1,8 +1,8 @@
 ## Sobre Mim
 
-[cite_start]Sou estudante de **Engenharia de Software na PUC Minas** [cite: 5, 20] com sólida experiência prática no desenvolvimento de sistemas escaláveis e APIs robustas. [cite_start]Atuo na construção de soluções eficientes aplicando boas práticas de arquitetura e metodologias ágeis[cite: 6].
+Sou estudante de **Engenharia de Software na PUC Minas** com sólida experiência prática no desenvolvimento de sistemas escaláveis e APIs robustas. Atuo na construção de soluções eficientes aplicando boas práticas de arquitetura e metodologias ágeis.
 
-[cite_start]Como fundador da **Solvantech**, foco na criação de softwares personalizados e soluções digitais inovadoras para otimização de processos[cite: 17, 18].
+Como fundador da **Solvantech**, foco na criação de softwares personalizados e soluções digitais inovadoras para otimização de processos.
 
 ---
 
@@ -32,22 +32,22 @@
 ## Experiência Profissional
 
 ### **Sankhya** | Desenvolvedor Backend Java  
-[cite_start]*Agosto de 2025 – Presente* [cite: 9]
+ *Agosto de 2025 – Presente*
 
-* [cite_start]**Desenvolvimento com Spring Boot:** Criação e manutenção de rotinas personalizadas utilizando **Java** e **Spring Boot** para atender regras de negócio complexas[cite: 10].
-* [cite_start]**Gestão de Dados:** Execução de consultas avançadas e manipulação de banco de dados **Oracle SQL** focado em performance e integridade[cite: 11].
+*  **Desenvolvimento com Spring Boot:** Criação e manutenção de rotinas personalizadas utilizando **Java** e **Spring Boot** para atender regras de negócio complexas.
+*  **Gestão de Dados:** Execução de consultas avançadas e manipulação de banco de dados **Oracle SQL** focado em performance e integridade.
 
 ### **BeTruck** | Desenvolvedor FullStack  
-[cite_start]*Junho de 2024 – Agosto de 2025* [cite: 12]
+ *Junho de 2024 – Agosto de 2025*
 
-* [cite_start]**Arquitetura de APIs:** Desenvolvimento de APIs robustas e escaláveis utilizando **Node.js**, **NestJS** e **TypeScript**[cite: 14].
-* [cite_start]**Frontend Dinâmico:** Construção de interfaces modernas, responsivas e de alta performance utilizando **React**[cite: 15].
-* [cite_start]**Modelagem de Dados:** Gerenciamento e estruturação de dados com **PostgreSQL** e **TypeORM**[cite: 16].
+*  **Arquitetura de APIs:** Desenvolvimento de APIs robustas e escaláveis utilizando **Node.js**, **NestJS** e **TypeScript**.
+*  **Frontend Dinâmico:** Construção de interfaces modernas, responsivas e de alta performance utilizando **React**.
+*  **Modelagem de Dados:** Gerenciamento e estruturação de dados com **PostgreSQL** e **TypeORM**.
 
 ### **Solvantech** | Fundador e Desenvolvedor  
-[cite_start]*Iniciativa Própria* [cite: 17]
+ *Iniciativa Própria*
 
-* [cite_start]**Soluções Customizadas:** Liderança no desenvolvimento de softwares personalizados e soluções digitais focadas em resolver problemas específicos de clientes[cite: 18].
+*  **Soluções Customizadas:** Liderança no desenvolvimento de softwares personalizados e soluções digitais focadas em resolver problemas específicos de clientes.
 
 ---
 
@@ -62,9 +62,9 @@
 
 ## Idiomas & Certificações
 
-* **Idiomas:** Inglês (Avançado) | [cite_start]Espanhol (Intermediário) [cite: 30]
-* [cite_start]**Docker:** Finalizado (Cod3r) [cite: 29]
-* [cite_start]**JavaScript Moderno:** Finalizado (Cod3r) [cite: 28]
+* **Idiomas:** Inglês (Avançado) |  Espanhol (Intermediário)
+*  **Docker:** Finalizado (Cod3r)
+*  **JavaScript Moderno:** Finalizado (Cod3r)
 
 ---
 <div align="left">
