@@ -55,7 +55,6 @@ Como fundador da **Solvantech**, foco na criação de softwares personalizados e
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitorheleno&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitorheleno&layout=compact&langs_count=7&theme=visual_studio_code"/>
 </div>
 
 ---
