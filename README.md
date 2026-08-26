@@ -52,7 +52,7 @@ Como fundador da **Solvantech**, foco na criação de softwares personalizados e
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorhelenomarinho&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorheleno&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
