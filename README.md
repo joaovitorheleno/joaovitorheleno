@@ -61,7 +61,7 @@ Como fundador da **Solvantech**, foco na criação de softwares personalizados e
 
 ## Idiomas & Certificações
 
-* **Idiomas:** Inglês (Avançado) |  Espanhol (Intermediário)
+* **Idiomas:** Inglês (Intermediário) |  Espanhol (Básico)
 *  **Docker:** Finalizado (Cod3r)
 *  **JavaScript Moderno:** Finalizado (Cod3r)
 
